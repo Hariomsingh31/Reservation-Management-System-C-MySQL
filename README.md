@@ -4,23 +4,33 @@ A console-based Reservation Management System built using C++ and MySQL. Impleme
 🚀 Features
 
 * Role-Based Login System
-Admin and User authentication using MySQL
+-> Admin and User authentication using MySQL
 
-Role-based access control
-Reservation Management
-Add new reservations
-Cancel existing reservations (Admin only)
-View all reservations (Admin only)
-Seat Availability Logic
-Prevents overbooking by validating available seats per date
-Date-Wise Filtering
-Filter and view reservations for a specific date
-File Logging
+-> Role-based access control
+
+* Reservation Management
+
+->Add new reservations
+-> Cancel existing reservations (Admin only)
+->View all reservations (Admin only)
+
+* Seat Availability Logic
+-> Prevents overbooking by validating available seats per date
+  
+* Date-Wise Filtering
+-> Filter and view reservations for a specific date
+  
+* File Logging
 Logs system activities such as login, booking, and cancellation
+
 🛠️ Technologies Used
+
 Language: C++
+
 Concepts: Object-Oriented Programming (OOP)
+
 Database: MySQL
+
 Other: File Handling, SQL Queries
 IDE: VS Code / CodeBlocks
 Platform: Windows / Linux
