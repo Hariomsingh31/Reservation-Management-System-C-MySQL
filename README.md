@@ -2,8 +2,10 @@
 A console-based Reservation Management System built using C++ and MySQL. Implements role-based Admin/User login, seat availability validation, date-wise reservation filtering, and file-based logging while applying core Object-Oriented Programming principles.
 
 🚀 Features
-Role-Based Login System
+
+* Role-Based Login System
 Admin and User authentication using MySQL
+
 Role-based access control
 Reservation Management
 Add new reservations
